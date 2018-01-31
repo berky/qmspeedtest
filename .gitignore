@@ -1,0 +1,6 @@
+*.html
+
+# Q-Chem
+.*qcin*
+pathtable
+xcdata
